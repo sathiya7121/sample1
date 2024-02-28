@@ -117,7 +117,7 @@
     "Id": "216d1000-b6ee-4d7c-afb7-2d675ebcb6d5",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "IAS Sample",
     "OriginatingVersion": "1.337",
     "ParserErrorCount": 0,
