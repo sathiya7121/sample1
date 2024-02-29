@@ -92,3 +92,19 @@
                     Y: =224
                     ZIndex: =2
 
+                Button1 As button:
+                    FontWeight: =FontWeight.Bold
+                    Height: =78
+                    HoverColor: =RGBA(0, 13, 75, 1)
+                    HoverFill: =Color.White
+                    RadiusBottomLeft: =25
+                    RadiusBottomRight: =25
+                    RadiusTopLeft: =25
+                    RadiusTopRight: =25
+                    Size: =25
+                    Text: ="Login"
+                    Width: =212
+                    X: =239
+                    Y: =529
+                    ZIndex: =3
+
