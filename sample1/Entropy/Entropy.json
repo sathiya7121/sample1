@@ -30,7 +30,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/29/2024 08:41:55",
+  "HeaderLastSavedDateTimeUTC": "02/29/2024 08:42:10",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "2f6b4ef0-e0c6-4278-be9f-2c828a86c05c": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/shared-sharepointonl-101c44f1-bcf5-47e4-a367-efbf05bdab36\""
@@ -92,7 +92,7 @@
     "Bulk ReAssign": 0,
     "Bulk Rejection": 0,
     "Button1": 8,
-    "Button2": 0,
+    "Button2": 10,
     "Container1": 2,
     "Container2": 5,
     "Dashborad": 0,
