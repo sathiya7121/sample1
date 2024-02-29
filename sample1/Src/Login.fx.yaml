@@ -59,11 +59,13 @@
                 TextInput1 As text:
                     Align: =Align.Center
                     Color: =RGBA(0, 13, 75, 1)
-                    Default: ="User Password"
+                    Default: =""
                     FontWeight: =FontWeight.Bold
                     Height: =58
+                    HintText: ="User Password"
                     HoverColor: =RGBA(255, 255, 255, 1)
                     HoverFill: =RGBA(0, 13, 75, 1)
+                    Mode: =TextMode.Password
                     RadiusBottomLeft: =50
                     RadiusBottomRight: =50
                     RadiusTopLeft: =50
@@ -77,9 +79,10 @@
                 TextInput1_1 As text:
                     Align: =Align.Center
                     Color: =RGBA(0, 13, 75, 1)
-                    Default: ="User Name"
+                    Default: =""
                     FontWeight: =FontWeight.Bold
                     Height: =52
+                    HintText: ="User Name"
                     HoverColor: =RGBA(255, 255, 255, 1)
                     HoverFill: =RGBA(0, 13, 75, 1)
                     RadiusBottomLeft: =50
