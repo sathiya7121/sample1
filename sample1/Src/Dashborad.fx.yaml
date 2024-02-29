@@ -16,3 +16,13 @@ Dashborad As screen:
             WorkspaceId: ="__my-workspace"
             ZIndex: =1
 
+    Label3 As label:
+        FontWeight: =FontWeight.Bold
+        Height: =80
+        Size: =25
+        Text: ="Hello Girls"
+        Width: =452
+        X: =396
+        Y: =242
+        ZIndex: =3
+
