@@ -7,6 +7,7 @@
     "Bulk ReAssign": 22,
     "Bulk Rejection": 23,
     "Button1": 18,
+    "Button2": 29,
     "Container1": 12,
     "Container2": 14,
     "Dashborad": 4,
@@ -29,7 +30,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/29/2024 08:29:10",
+  "HeaderLastSavedDateTimeUTC": "02/29/2024 08:41:55",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "2f6b4ef0-e0c6-4278-be9f-2c828a86c05c": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/shared-sharepointonl-101c44f1-bcf5-47e4-a367-efbf05bdab36\""
@@ -50,11 +51,11 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 3,
-    "groupContainer": 0,
-    "image": 1,
+    "button": 0,
+    "groupContainer": 1,
+    "image": 2,
     "label": 4,
-    "text": 2
+    "text": 3
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -62,6 +63,7 @@
     "Bulk ReAssign": {},
     "Bulk Rejection": {},
     "Button1": {},
+    "Button2": {},
     "Container1": {},
     "Container2": {},
     "Dashborad": {},
@@ -90,6 +92,7 @@
     "Bulk ReAssign": 0,
     "Bulk Rejection": 0,
     "Button1": 8,
+    "Button2": 0,
     "Container1": 2,
     "Container2": 5,
     "Dashborad": 0,
