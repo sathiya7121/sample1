@@ -1,1 +1,24 @@
-{}
+{
+  "2f6b4ef0-e0c6-4278-be9f-2c828a86c05c": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1676/1.0.1676.3617/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://sharafshipping.sharepoint.com/sites/CSVEAS": {
+        "dataSources": {
+          "Login_1": {
+            "tableName": "940d3f3d-7e82-452b-af04-6162afce4038"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Login_1"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "2f6b4ef0-e0c6-4278-be9f-2c828a86c05c"
+  }
+}

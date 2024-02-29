@@ -14,19 +14,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.TextInput1.AccessibleLabel"
+                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.pwd.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.TextInput1.AccessibleLabel",
+                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.pwd.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Login",
-                "type": "Login.ScreenContainer1.RightContainer1.Container2.TextInput1"
+                "type": "Login.ScreenContainer1.RightContainer1.Container2.pwd"
               }
             }
           ],
@@ -44,19 +44,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.TextInput1_1.AccessibleLabel"
+                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.name.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.TextInput1_1.AccessibleLabel",
+                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.name.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Login",
-                "type": "Login.ScreenContainer1.RightContainer1.Container2.TextInput1_1"
+                "type": "Login.ScreenContainer1.RightContainer1.Container2.name"
               }
             }
           ],

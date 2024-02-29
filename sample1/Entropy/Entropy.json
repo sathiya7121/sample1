@@ -16,21 +16,24 @@
     "Image1": 13,
     "Invoice Approval": 19,
     "Invoice Input": 7,
+    "Label1": 28,
     "LeftContainer1": 10,
     "Login": 8,
+    "name": 17,
     "Pending Approrval": 27,
     "Pending Booking": 26,
+    "pwd": 15,
     "Report": 20,
     "RightContainer1": 11,
-    "ScreenContainer1": 9,
-    "TextInput1": 15,
-    "TextInput1_1": 17
+    "ScreenContainer1": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/29/2024 07:23:41",
+  "HeaderLastSavedDateTimeUTC": "02/29/2024 07:53:31",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {},
+  "LocalConnectionIDReferences": {
+    "2f6b4ef0-e0c6-4278-be9f-2c828a86c05c": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/shared-sharepointonl-101c44f1-bcf5-47e4-a367-efbf05bdab36\""
+  },
   "LocalDatabaseReferencesAsEmpty": true,
   "LocalResourceFileNames": {
     "4428861": "af49fe2b-e7a7-4d8c-aafe-5d484cd9733d.jpg"
@@ -40,7 +43,9 @@
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "Login_1": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
@@ -48,6 +53,7 @@
     "button": 3,
     "groupContainer": 0,
     "image": 1,
+    "label": 4,
     "text": 2
   },
   "OverridablePropertiesEntry": {
@@ -65,15 +71,16 @@
     "Image1": {},
     "Invoice Approval": {},
     "Invoice Input": {},
+    "Label1": {},
     "LeftContainer1": {},
     "Login": {},
+    "name": {},
     "Pending Approrval": {},
     "Pending Booking": {},
+    "pwd": {},
     "Report": {},
     "RightContainer1": {},
-    "ScreenContainer1": {},
-    "TextInput1": {},
-    "TextInput1_1": {}
+    "ScreenContainer1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -92,15 +99,16 @@
     "Image1": 3,
     "Invoice Approval": 0,
     "Invoice Input": 0,
+    "Label1": 9,
     "LeftContainer1": 1,
     "Login": 0,
+    "name": 6,
     "Pending Approrval": 0,
     "Pending Booking": 0,
+    "pwd": 7,
     "Report": 0,
     "RightContainer1": 4,
-    "ScreenContainer1": 0,
-    "TextInput1": 7,
-    "TextInput1_1": 6
+    "ScreenContainer1": 0
   },
   "ResourcesJsonIndices": {
     "Image-4428861": 1,
