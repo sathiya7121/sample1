@@ -32,7 +32,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/29/2024 09:56:42",
+  "HeaderLastSavedDateTimeUTC": "02/29/2024 09:57:26",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "2f6b4ef0-e0c6-4278-be9f-2c828a86c05c": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/20aaff5cb77d47fc850c1d05b5be693e\""
@@ -53,10 +53,10 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 1,
+    "button": 0,
     "groupContainer": 2,
     "image": 3,
-    "label": 0,
+    "label": 1,
     "text": 4
   },
   "OverridablePropertiesEntry": {
@@ -108,7 +108,7 @@
     "Invoice Input": 0,
     "Label1": 9,
     "Label2": 11,
-    "Label3": 0,
+    "Label3": 12,
     "LeftContainer1": 1,
     "Login": 0,
     "name": 6,
