@@ -1,0 +1,46 @@
+nav As CanvasComponent:
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =640
+    Menu: |-
+        =Table(
+            {
+                Title: "Dashborad",
+                Screen:App.ActiveScreen
+              
+            },
+            {
+                Title: "Invoice Approval",
+                Screen:App.ActiveScreen
+              
+            }
+        
+        )
+    Width: =640
+    X: =0
+    Y: =0
+    ZIndex: =1
+
+    Topcon As groupContainer.manualLayoutContainer:
+        Height: =71
+        Width: =Parent.Width
+        ZIndex: =1
+
+        Icon1 As icon.Hamburger:
+            Icon: =Icon.Hamburger
+            OnSelect: =Set(showmeun,!showmeun)
+            X: =3
+            Y: =6
+            ZIndex: =1
+
+    meungal As gallery.variableTemplateHeightGallery:
+        DelayItemLoading: =true
+        Items: =nav.Menu
+        Layout: =Layout.Vertical
+        LoadingSpinner: =LoadingSpinner.Data
+        TemplatePadding: =4
+        TemplateSize: =280
+        Visible: =showmeun
+        Width: =App.Width/6
+        Y: =Topcon.Height
+        ZIndex: =1
+

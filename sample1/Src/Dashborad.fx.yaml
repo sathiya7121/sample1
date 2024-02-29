@@ -1,14 +1,18 @@
 Dashborad As screen:
+    ImagePosition: =ImagePosition.Fill
 
-    Button2 As button:
-        Text: ="Button"
-        X: =40
-        Y: =40
+    Container3 As groupContainer.manualLayoutContainer:
+        Height: =762
+        Width: =1358
+        X: =8
+        Y: =6
         ZIndex: =1
 
-    Label2 As label:
-        Text: ="Text"
-        X: =768
-        Y: =166
-        ZIndex: =2
+        PowerBI2 As powerbi:
+            Height: =758
+            TileUrl: |-
+                ="https://app.powerbi.com/reportEmbed?reportId=d469a3ba-6daf-4f0a-971c-08fb3a9c1c34&autoAuth=true&ctid=33f5c57b-5e52-42cb-9dad-f5c789dd3ab3"
+            Width: =1002
+            WorkspaceId: ="__my-workspace"
+            ZIndex: =1
 
