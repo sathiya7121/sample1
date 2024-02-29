@@ -3,20 +3,31 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 5,
+    "Container1": 12,
+    "Container2": 14,
     "Host": 3,
-    "Label1": 7,
+    "Image1": 13,
+    "LeftContainer1": 10,
+    "Login": 8,
+    "RightContainer1": 11,
     "Screen1": 4,
-    "Screen2": 6
+    "Screen2": 7,
+    "ScreenContainer1": 9,
+    "TextInput1": 15,
+    "TextInput1_1": 17
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/28/2024 13:09:13",
+  "HeaderLastSavedDateTimeUTC": "02/29/2024 07:07:52",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "4428861": "af49fe2b-e7a7-4d8c-aafe-5d484cd9733d.jpg"
+  },
+  "LocalResourceRootPaths": {
+    "4428861": "https://docserverpwaprodneu.blob.core.windows.net/2ab487a0-9cb7-44b5-bac3-34c2cd1cfc4a-1/resource/8be0a20a-5ee7-46da-8781-e3724f0ea855.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-02-29T07%3A04%3A38Z&ske=2024-03-01T07%3A19%3A38Z&sks=b&skv=2022-11-02&sv=2022-11-02&spr=https&se=2024-03-01T07%3A19%3A38Z&sr=b&sp=r&sig=NQSSz7heBaWPE1%2B0%2FG3%2BSOkczwDMKvVnyLkGtQGWE9o%3D"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
@@ -24,37 +35,57 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 1,
-    "label": 0
+    "groupContainer": 0,
+    "image": 1,
+    "text": 2
   },
   "OverridablePropertiesEntry": {
     "App": {},
-    "Button1": {},
+    "Container1": {},
+    "Container2": {},
     "Host": {},
-    "Label1": {},
+    "Image1": {},
+    "LeftContainer1": {},
+    "Login": {},
+    "RightContainer1": {},
     "Screen1": {},
-    "Screen2": {}
+    "Screen2": {},
+    "ScreenContainer1": {},
+    "TextInput1": {},
+    "TextInput1_1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
-    "Button1": 1,
+    "Container1": 0,
+    "Container2": 0,
     "Host": 0,
-    "Label1": 0,
+    "Image1": 0,
+    "LeftContainer1": 0,
+    "Login": 0,
+    "RightContainer1": 0,
     "Screen1": 0,
-    "Screen2": 0
+    "Screen2": 0,
+    "ScreenContainer1": 0,
+    "TextInput1": 0,
+    "TextInput1_1": 0
   },
-  "ResourcesJsonIndices": {},
+  "ResourcesJsonIndices": {
+    "Image-4428861": 1,
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0177628,
+    "AnalysisLoadTime": 0.0541665,
     "ControlCount": {
       "button": 1,
-      "screen": 2
+      "label": 1,
+      "screen": 2,
+      "text": 1
     },
-    "DeserializationLoadTime": 0.9477459
+    "DeserializationLoadTime": 1.0433164
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

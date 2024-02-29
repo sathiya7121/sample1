@@ -13,29 +13,19 @@
     "OverridableProperties": {},
     "Version": "1.0"
   },
-  "button": {
+  "groupContainer": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,
-    "Id": "http://microsoft.com/appmagic/button",
+    "Id": "http://microsoft.com/appmagic/groupContainer",
     "IsComponentTemplate": false,
     "IsCustomGroupControlTemplate": false,
     "IsPcfControl": false,
     "IsPremiumPcfControl": false,
     "IsWidgetTemplate": true,
     "LastModifiedTimestamp": "0",
-    "Name": "button",
-    "OverridableProperties": {},
-    "Version": "2.2.0"
-  },
-  "groupContainer": {
-    "FirstParty": true,
-    "Id": "http://microsoft.com/appmagic/groupContainer",
-    "IsComponentTemplate": false,
-    "IsPcfControl": false,
-    "IsWidgetTemplate": false,
-    "LastModifiedTimestamp": "0",
     "Name": "groupContainer",
-    "Version": "1.0"
+    "OverridableProperties": {},
+    "Version": "1.3.0"
   },
   "Host": {
     "CustomGroupControlTemplateName": "",
@@ -52,19 +42,19 @@
     "OverridableProperties": {},
     "Version": "1.6.0"
   },
-  "label": {
+  "image": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,
-    "Id": "http://microsoft.com/appmagic/label",
+    "Id": "http://microsoft.com/appmagic/image",
     "IsComponentTemplate": false,
     "IsCustomGroupControlTemplate": false,
     "IsPcfControl": false,
     "IsPremiumPcfControl": false,
     "IsWidgetTemplate": true,
     "LastModifiedTimestamp": "0",
-    "Name": "label",
+    "Name": "image",
     "OverridableProperties": {},
-    "Version": "2.5.1"
+    "Version": "2.2.2"
   },
   "screen": {
     "CustomGroupControlTemplateName": "",
@@ -79,5 +69,19 @@
     "Name": "screen",
     "OverridableProperties": {},
     "Version": "1.0"
+  },
+  "text": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/text",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "text",
+    "OverridableProperties": {},
+    "Version": "2.3.2"
   }
 }

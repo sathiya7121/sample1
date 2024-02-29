@@ -1,14 +1,2 @@
 Screen1 As screen:
 
-    Button1 As button:
-        Text: ="Button"
-        X: =426
-        Y: =242
-        ZIndex: =1
-
-    Label1 As label:
-        Text: ="Text"
-        X: =530
-        Y: =106
-        ZIndex: =2
-
