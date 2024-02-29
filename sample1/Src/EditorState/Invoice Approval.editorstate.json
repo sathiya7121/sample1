@@ -1,6 +1,6 @@
 {
   "ControlStates": {
-    "Screen1": {
+    "Invoice Approval": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Fill",
@@ -20,7 +20,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Screen1",
+      "Name": "Invoice Approval",
       "OptimizeForDevices": "Off",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
@@ -70,5 +70,5 @@
       "Type": "ControlInfo"
     }
   },
-  "TopParentName": "Screen1"
+  "TopParentName": "Invoice Approval"
 }

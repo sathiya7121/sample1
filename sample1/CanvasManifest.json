@@ -136,7 +136,16 @@
   },
   "ScreenOrder": [
     "Login",
-    "Screen1",
-    "Screen2"
+    "Dashborad",
+    "Invoice Input",
+    "Invoice Approval",
+    "Report",
+    "Dowload Center",
+    "Bulk ReAssign",
+    "Bulk Rejection",
+    "Bulk Booking",
+    "HOD Bulk Approval",
+    "Pending Booking",
+    "Pending Approrval"
   ]
 }
