@@ -57,14 +57,14 @@
                 ZIndex: =1
 
                 TextInput1 As text:
-                    Align: =Align.Center
                     Color: =RGBA(0, 13, 75, 1)
                     Default: =""
+                    DisabledFill: =RGBA(255, 255, 255, 1)
                     FontWeight: =FontWeight.Bold
                     Height: =58
                     HintText: ="User Password"
-                    HoverColor: =RGBA(255, 255, 255, 1)
-                    HoverFill: =RGBA(0, 13, 75, 1)
+                    HoverColor: =RGBA(0, 13, 75, 1)
+                    HoverFill: =RGBA(255, 255, 255, 1)
                     Mode: =TextMode.Password
                     RadiusBottomLeft: =50
                     RadiusBottomRight: =50
@@ -73,18 +73,17 @@
                     Size: =25
                     Width: =414
                     X: =138
-                    Y: =372
+                    Y: =360
                     ZIndex: =1
 
                 TextInput1_1 As text:
-                    Align: =Align.Center
                     Color: =RGBA(0, 13, 75, 1)
                     Default: =""
                     FontWeight: =FontWeight.Bold
                     Height: =52
                     HintText: ="User Name"
                     HoverColor: =RGBA(255, 255, 255, 1)
-                    HoverFill: =RGBA(0, 13, 75, 1)
+                    HoverFill: =RGBA(255, 255, 255, 1)
                     RadiusBottomLeft: =50
                     RadiusBottomRight: =50
                     RadiusTopLeft: =50
