@@ -12,3 +12,13 @@ Dashborad As screen:
         Y: =166
         ZIndex: =2
 
+    Label3 As label:
+        FontWeight: =FontWeight.Bold
+        Height: =80
+        Size: =25
+        Text: ="Hello Girls"
+        Width: =452
+        X: =396
+        Y: =242
+        ZIndex: =3
+
