@@ -14,19 +14,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.pwd.AccessibleLabel"
+                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.name.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.pwd.AccessibleLabel",
+                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.name.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Login",
-                "type": "Login.ScreenContainer1.RightContainer1.Container2.pwd"
+                "type": "Login.ScreenContainer1.RightContainer1.Container2.name"
               }
             }
           ],
@@ -44,19 +44,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.name.AccessibleLabel"
+                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.pwd.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.name.AccessibleLabel",
+                  "fullyQualifiedName": "Login.ScreenContainer1.RightContainer1.Container2.pwd.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Login",
-                "type": "Login.ScreenContainer1.RightContainer1.Container2.name"
+                "type": "Login.ScreenContainer1.RightContainer1.Container2.pwd"
               }
             }
           ],

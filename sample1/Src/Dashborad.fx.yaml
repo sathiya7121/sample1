@@ -6,3 +6,9 @@ Dashborad As screen:
         Y: =40
         ZIndex: =1
 
+    Label2 As label:
+        Text: ="Text"
+        X: =768
+        Y: =166
+        ZIndex: =2
+
