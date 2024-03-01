@@ -1,4 +1,26 @@
 "'Invoice Input' As screen":
 
-    nav_1 As nav:
+    Container4 As groupContainer.manualLayoutContainer:
+        Height: =768
+        Width: =1366
+        ZIndex: =2
+
+        Rectangle1 As rectangle:
+            Fill: =RGBA(51, 44, 112, 1)
+            Width: =1360
+            ZIndex: =1
+
+        Label2 As label:
+            Align: =Align.Center
+            AutoHeight: =true
+            Color: =RGBA(255, 255, 255, 1)
+            Font: =Font.'Lato Black'
+            FontWeight: =FontWeight.Semibold
+            Height: =51
+            Size: =30
+            Text: ="Invoice Form"
+            Width: =605
+            X: =318
+            Y: =22
+            ZIndex: =2
 

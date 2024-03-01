@@ -8,6 +8,9 @@
     "datasets": {
       "https://qserveits.sharepoint.com/sites/InvAppSys": {
         "dataSources": {
+          "Invoice Details": {
+            "tableName": "b3868d37-1429-4d86-9cd7-a3536057f53f"
+          },
           "Login_1": {
             "tableName": "18f2aa25-28df-4352-b589-3b1417cf0ef6"
           }
@@ -15,7 +18,8 @@
       }
     },
     "dataSources": [
-      "Login_1"
+      "Login_1",
+      "Invoice Details"
     ],
     "dependencies": {},
     "dependents": [],
