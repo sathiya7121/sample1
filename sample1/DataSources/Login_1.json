@@ -3,7 +3,7 @@
     "ApiId": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
     "CdpRevision": {
       "BaseUrl": "/",
-      "LastChangedTimeString": "2024-02-12T21:23:44.4260000Z",
+      "LastChangedTimeString": "2024-02-08T17:53:32.2760000Z",
       "RevisionNumber": 1
     },
     "ConnectedDataSourceInfoNameMapping": {
@@ -35,7 +35,7 @@
       "PED": "PED",
       "Title": "Title"
     },
-    "DatasetName": "https://sharafshipping.sharepoint.com/sites/CSVEAS",
+    "DatasetName": "https://qserveits.sharepoint.com/sites/InvAppSys",
     "EncodeDataset": true,
     "IsSampleData": false,
     "IsWritable": true,

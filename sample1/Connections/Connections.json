@@ -1,15 +1,15 @@
 {
-  "2f6b4ef0-e0c6-4278-be9f-2c828a86c05c": {
+  "58be0fb7-4f42-42d7-9efa-caf78f88a69c": {
     "connectionRef": {
       "displayName": "SharePoint",
       "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1676/1.0.1676.3617/sharepointonline/icon.png",
       "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
     },
     "datasets": {
-      "https://sharafshipping.sharepoint.com/sites/CSVEAS": {
+      "https://qserveits.sharepoint.com/sites/InvAppSys": {
         "dataSources": {
           "Login_1": {
-            "tableName": "940d3f3d-7e82-452b-af04-6162afce4038"
+            "tableName": "18f2aa25-28df-4352-b589-3b1417cf0ef6"
           }
         }
       }
@@ -19,6 +19,6 @@
     ],
     "dependencies": {},
     "dependents": [],
-    "id": "2f6b4ef0-e0c6-4278-be9f-2c828a86c05c"
+    "id": "58be0fb7-4f42-42d7-9efa-caf78f88a69c"
   }
 }
